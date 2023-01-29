@@ -1,0 +1,26 @@
+.footer-container {
+    background-color: #F7ECE1;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 12px;
+}
+
+.rights h5 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.footer-list {
+    display: flex;
+    gap: 0 40px;
+}
+
+.menu-footer a {
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
