@@ -29,3 +29,7 @@
   gap: 0 40px;
   margin: 0 185px 30px 124px;
 }
+
+.header a:hover {
+  color: rgba(0, 0, 0, 0.3);
+}

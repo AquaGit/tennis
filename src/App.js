@@ -2,7 +2,7 @@ import Header from './Components/Header/Header'
 import FirstScreen from './Components/FirstScreen/FirstScreen'
 import Advantages from './Components/Advantages/Advantages'
 import About from './Components/About/About'
-// import Slider from './Components/Slider/Slider'
+import Slider from './Components/Slider/Slider'
 
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       <FirstScreen/>
       <Advantages/>
       <About/>
-      {/* <Slider/> */}
+      <Slider/>
     </>
   );
 }
